@@ -11,7 +11,7 @@ while (i < 10) {
   text += "The number is " + i;
   /* More comment still */
   i++;
-  /* String: Amor Fati*/
+  /* String - Added: Amor Fati*/
 }
 ```
 

@@ -46,6 +46,7 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
+        - None
   - type: textarea
     id: logs
     attributes:

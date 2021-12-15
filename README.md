@@ -13,8 +13,3 @@ while (i < 10) {
   i++;
 }
 ```
-
-
-## Meat max
-
-## Space max

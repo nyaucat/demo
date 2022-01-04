@@ -7,6 +7,3 @@ push.sh
 commits.sh
 bigassfile.sh
 linecountinfile.sh
-.gitmodules
-disasterepo/.git
-disasterepo/.*

@@ -114,4 +114,8 @@ while (i < 10) {
 >
 > ## This is an H2 in a blockquote
 
+  <img src=cat.jpg width=200/>
+  <img src=mouse.jpg width=200/>
+  <img src=moose.jpg width=200/>
+  <img src=nairobi.jpg width=200/>
 
